@@ -6,6 +6,6 @@ It can record the keys you press on your system's keyboard and can then give the
 
 1. First clone the repository at a desired location using "git clone" command.
 2. Then, go to the locationn where your repository is located using terminal.
-3. Now, in the terminal run the python file in that folder using "python Key_logger.py" command.
-4. Your Key Logger is now started. 
-   
+3. First download the required packages and libraries which are needed for the keylogger to run.
+4. Now, in the terminal run the python file in that folder using "python Key_logger.py" command.
+5. Your Key Logger is now started. 
