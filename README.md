@@ -1,11 +1,44 @@
-# Key-Logger
-It is a Key Logger program written in Python programming language.\
-It can record the keys you press on your system's keyboard and can then give the output in a text file in the same folder as your keylogger program in.
+# Key Logger 🖥️🔑
 
-# Steps to run the Key Logger : 
+Welcome to the **Key Logger**! This Python program allows you to record and log the keys pressed on your keyboard effortlessly.
 
-1. First clone the repository at a desired location using "git clone" command.
-2. Then, go to the locationn where your repository is located using terminal.
-3. Then, download the required packages and libraries which are needed for the keylogger to run.
-4. Now, in the terminal run the python file in that folder using "python Key_logger.py" command.
-5. Your Key Logger is now started. 
+## 🚀 Features
+
+- **Key Logging**: Records every key pressed on your system's keyboard.
+- **Output to Text File**: Logs are saved to a text file in the same folder as the keylogger program.
+- **Python-Based**: Simple and effective, written entirely in Python.
+
+## 🛠 Technologies Used
+
+- **Python**: 100% of the project
+
+## 📚 Getting Started
+
+Follow these steps to get the Key Logger up and running:
+
+1. **Clone the repository**:
+    ```bash
+    git clone https://github.com/ALAG11/Key-Logger.git
+    ```
+2. **Navigate to the project directory**:
+    ```bash
+    cd Key-Logger
+    ```
+3. **Install required packages**:
+    ```bash
+    pip install -r requirements.txt
+    ```
+4. **Run the application**:
+    ```bash
+    python Key_logger.py
+    ```
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to open an issue or submit a pull request.
+
+## 🌟 Show Your Support
+
+Give a ⭐️ if you like this project!
+
+---
